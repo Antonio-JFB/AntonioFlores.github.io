@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Mi Página
----
 
 # ¡Bienvenidos a mi página GitHub!
 
@@ -15,3 +14,4 @@ Un seminario en el que exploramos diversas técnicas de inteligencia artificial 
 
 ### [Condiciones](https://github.com/Dreamchuyito03/Condiciones)
 Un proyecto que aborda las condiciones necesarias para completar ciertas tareas automatizadas.
+---
